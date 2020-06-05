@@ -1,0 +1,42 @@
+body {
+  background-image: url('img/login_background.jpg');
+  background-color: #cccccc;
+}
+
+li:hover {
+  background-color: yellow;
+   
+        border-bottom: 3px solid #dedede;
+        border-left: 10px solid #660066;
+        background-color: #dedede;
+}
+li  {
+    color:#ff9999;
+    padding:6px;
+    top: -155px;
+    float: right;
+    position: relative;
+    
+    
+}
+
+
+a.menu_header_sel,a.menu_header_sel_2{
+ color:#ff9999;
+    padding:6px;
+    bottom: 135px;
+    right: -165px;
+    float: right;
+    position: relative;
+    
+    
+}
+a{
+    color: #ff9999;
+}
+
+img {
+  width: 15%;
+  height: 25%;
+  height: auto;
+}

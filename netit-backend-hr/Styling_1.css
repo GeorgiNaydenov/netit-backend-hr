@@ -1,0 +1,85 @@
+body {
+  background-image: url('img/h1_hero.jpg');
+  background-color: #cccccc;
+}
+
+li:hover {
+  background-color: yellow;
+   
+        border-bottom: 3px solid #dedede;
+        border-left: 10px solid #660066;
+        background-color: #dedede;
+}
+li  {
+    color:#ff9999;
+    padding:6px;
+    top: -115px;
+    float: right;
+    position: relative;
+    
+    
+}
+
+.web-header{
+ color:#fea090;
+ align-content: flex-start;
+ padding:4px;
+ top:120px;
+ float: left;
+ position:relative;
+    
+    
+    
+}
+
+
+h3.logo{
+color: viovar;
+}
+
+
+
+a.menu_header_sel,a.menu_header_sel_2{
+ color:#ff9999;
+    padding:6px;
+    bottom: 115px;
+    right: -145px;
+    float: right;
+    position: relative;
+    
+    
+}
+a{
+    color: #ff9999;
+}
+
+
+.img{
+   border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px){
+  .responsive {
+    width: 100%;
+  }
+}
+job-publish-editor{
+    text-align:center;
+}

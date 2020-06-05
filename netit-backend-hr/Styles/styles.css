@@ -1,0 +1,99 @@
+
+.body{
+    background-color:#dedede;
+    height:1000px;
+    width:1000px;
+    color: #bfbfbf;
+}
+
+.menu-placeholder {
+    float: right;
+}
+
+
+img {
+    max-width:50%;
+    height:75px;
+}
+    
+
+  h1 {
+  background-color:whitesmoke;
+  font-weight: bold;
+  color: #fff;
+  font-size: 15px;
+}
+
+col-sm_{
+   text-align:center;
+   float: right;
+}
+   
+button{
+    
+font-weight: bold;
+    text-align: center;
+}
+#application-header {
+    background :black;
+}
+
+.logo.png{
+ position: relative;
+ width   : 100%;
+ margin  : 5px 0;
+ padding : 5px;
+ size: 50px;
+ font-size   : 10px;    
+}
+.main-menu{
+clear: both;
+
+
+.menu-placeholder{
+    background: #627da0;
+    position:fixed;
+    top:150px;
+    float:right;
+}
+
+    }
+    ul li a{
+        
+        top:150px;
+        list-style:none;
+        float:right;
+        text-align: right;
+        width:100px;
+        margin-right: 200px;
+        border-bottom: 3px solid #000000;
+        border-left: 10px solid #dedede;
+        background-color: lightcoral;
+        display:inline-block;
+        vertical-align: text-top;
+        text-transform: uppercase;
+    }
+    
+    a{
+        color: #007bff;
+        text-decoration: none;
+        background-color:transparent;
+        float:right;
+        top:150px;
+    }
+    
+    ul li{
+        float:right;
+        text-align: right;
+        width:100px;
+        margin-right: 200px;
+        border-bottom: 3px solid #000000;
+        border-left: 10px solid #dedede;
+        background-color: lightcoral;
+        display:inline-block;
+        top:150px;
+
+
+    }
+    
+    
